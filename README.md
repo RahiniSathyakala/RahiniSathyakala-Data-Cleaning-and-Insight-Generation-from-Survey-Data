@@ -144,3 +144,13 @@ By cleaning and organizing the data, meaningful insights can be extracted that h
 - Exploratory Data Analysis
 - Data Visualization
 - Python Data Analysis Libraries
+
+---
+
+## Output
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/d862ed24-83fc-4d5f-8a68-6b3b3706050e" />
+<img width="1094" height="1020" alt="Image" src="https://github.com/user-attachments/assets/782ad936-d785-418e-84cd-126bd87d33c0" />
+<img width="1111" height="1020" alt="Image" src="https://github.com/user-attachments/assets/587cef46-b270-4f04-b3f4-87d68592530f" />
+<img width="1093" height="1020" alt="Image" src="https://github.com/user-attachments/assets/0eb89985-b1b0-4445-b51c-5cf34f656262" />
+
+---
